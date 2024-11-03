@@ -20,6 +20,7 @@ También tendremos que tener los scripts de aprovisionamiento.
 ![Captura de pantalla 2024-11-03 142000](https://github.com/user-attachments/assets/954dbd18-2dda-4555-b12c-84cc754d69ba)
 
 - Script de Mysql
+
 ![Captura de pantalla 2024-11-03 142028](https://github.com/user-attachments/assets/f1ffbd66-6a37-4d40-b2b6-81b6448cba91)
 
 Realizamos un `vagrant up` y un `vagrant provision` para cargar las máquinas y los scripts de aprovisionamiento.
